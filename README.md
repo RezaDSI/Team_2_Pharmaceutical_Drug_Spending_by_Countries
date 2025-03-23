@@ -1,12 +1,14 @@
 # 🏥Pharmaceutical Drug Spending by Countries 🗺
 
-**Team Members:** 
 
-* Aliya Asad ([AliyaAsad](https://github.com/AliyaAsad))
-* Koukou Tian ([tqq199548](https://github.com/tqq199548))
-* Pavanndeep Kaur ([Pavendeep93](https://github.com/Pavandeep93))
-* Reza Tehrani ([RezaDSI](https://github.com/RezaDSI))
-* Victor Leung ([Vleung3782](https://github.com/Vleung3782))
+# **Team members and Videos**
+
+
+* Aliya Asad ([AliyaAsad](https://github.com/AliyaAsad)) ([Video](https://github.com/AliyaAsad))
+* Koukou Tian ([tqq199548](https://github.com/tqq199548)) ([Video](https://github.com/tqq199548))
+* Pavanndeep Kaur ([Pavendeep93](https://github.com/Pavandeep93)) ([Video](https://github.com/Pavandeep93))
+* Reza Tehrani ([RezaDSI](https://github.com/RezaDSI))  ([Video](https://github.com/RezaDSI))
+* Victor Leung ([Vleung3782](https://github.com/Vleung3782)) ([Video](https://github.com/Vleung3782))
 
 # **Project Background**
 **Why is Pharmaceutical Drug Spending Important?**
@@ -25,6 +27,10 @@ This project analyzes global pharmaceutical drug spending trends, comparing expe
 
 **🔎 Key Business Questions:**
 
+✔What are the clusters among countries in terms of pharmaceutical spending? 
+
+✔How do these patterns relate to total spending across different years?
+
 ✔Investigate the relationship between pharmaceutical spending and GDP in years. 
 
 ✔How does GDP impact pharmaceutical spending across countries? 
@@ -41,9 +47,9 @@ This project analyzes global pharmaceutical drug spending trends, comparing expe
 
 -Data Processing: Python (Pandas, NumPy)
 
--Visualization: Matplotlib
+-Visualization: Matplotlib, Seaborn
  
--Modeling: Scikit-learn (Regression, Clustering)
+-Modeling: Scikit-learn (Regression, K-means), Arima
  
 -Collaboration: GitHub, Jupyter Notebook
 
@@ -297,4 +303,5 @@ Investigate government healthcare policies and their impact on drug pricing.
 Analyze the impact of pharmaceutical R&D investments on national drug costs.
 Expand the dataset to include post-2022 trends, particularly in the aftermath of the COVID-19 pandemic.
 
-# **Videos:**
+
+
